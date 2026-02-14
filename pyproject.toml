@@ -1,0 +1,13 @@
+[project]
+name = "my-project"
+version = "0.1.0"
+description = "task"
+authors = [
+    {name = "Manas Agarwal", email = "manasagarwal12921@gmail.com"}
+]
+
+requires-python = ">=3.13"
+dependencies = ["harbor"]
+
+[tool.uv]
+package = false

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Manas Agarwal",
+    "age": 28,
+    "email": "manas@example.com",
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Riya Sharma",
+    "age": 26,
+    "email": "riya@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Arjun Patel",
+    "age": 15,
+    "email": "arjun@example.com",
+    "city": "Ahmedabad"
+  },
+  {
+    "id": 4,
+    "name": "Neha Gupta",
+    "age": 19,
+    "email": "neha@example.com",
+    "city": "Bengaluru"
+  }
+]
